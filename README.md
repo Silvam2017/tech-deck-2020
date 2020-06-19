@@ -1,1 +1,1 @@
-# tech-deck-2020
+# just-tech-news
